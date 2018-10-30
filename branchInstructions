@@ -1,0 +1,13 @@
+There are two ways to create a branch :
+
+1. git branch branchName
+
+git checkout branchName
+
+
+2. git checkout -b branchName
+
+
+Note :
+1. New branch is created from the current working branch.
+2. If a new branch is created from local branch it won't be having changes of corresponding remote branch.
